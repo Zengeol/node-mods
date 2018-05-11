@@ -1,0 +1,28 @@
+{
+  "name": "pbailey-mods",
+  "version": "1.0.0",
+  "description": "don't use this",
+  "main": "index.js",
+  "dependencies": {
+    "marked": "^0.3.19",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init_db": "echo Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzapanther/node-mods.git"
+  },
+  "author": "P Bailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pizzapanther/node-mods/issues"
+  },
+  "homepage": "https://github.com/pizzapanther/node-mods#readme"
+}
